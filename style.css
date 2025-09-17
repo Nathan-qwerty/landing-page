@@ -151,3 +151,23 @@ a {
     max-width: 710px;
     margin: 0 auto;
 }
+
+.call-to-action {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    border-radius: 10px;
+    width: 1050px;
+    padding: 40px 0;
+    margin: 72px auto;
+}
+
+.action-text,
+.signup-text {
+    color: #e5e7eb;
+}
+
+.action-text {
+    font-size: 24px;
+    font-weight: bold;
+}
